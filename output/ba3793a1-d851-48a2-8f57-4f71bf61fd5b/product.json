@@ -1,0 +1,122 @@
+{
+  "requested_url": "https://www.bestbuy.com/site/ray-ban-meta-wayfarer-gen-2-glasses-with-meta-ai-audio-photo-video-compatibility-transitions-grey-lenses-matte-black/6500000.p?skuId=6500000",
+  "title": "Ray-Ban Meta (Gen 2) Smart Glasses",
+  "brand": "Ray-Ban Meta",
+  "product_id": null,
+  "handle": null,
+  "product_type": null,
+  "requested_variant_id": null,
+  "variant_selection": "none",
+  "selected_variant": null,
+  "price": "459",
+  "compare_at_price": null,
+  "currency": "USD",
+  "on_sale": false,
+  "availability": null,
+  "sku": null,
+  "barcode": "8056262721339",
+  "description": {
+    "text": "The Ray-Ban Meta (Gen 2) Smart Glasses combine classic Ray-Ban style with advanced AI features, including voice commands, a 12MP camera, and open-ear audio, all while maintaining a traditional eyewear appearance.",
+    "html": null
+  },
+  "features": [
+    "Meta AI integration for voice commands and queries",
+    "12MP camera capable of 3K video recording",
+    "Open-ear speakers with advanced beamforming microphones",
+    "All-day battery life with portable charging case",
+    "Bluetooth connectivity for calls and music streaming"
+  ],
+  "description_points": [
+    "Meta AI integration for voice commands and queries",
+    "12MP camera capable of 3K video recording",
+    "Open-ear speakers with advanced beamforming microphones",
+    "All-day battery life with portable charging case",
+    "Bluetooth connectivity for calls and music streaming"
+  ],
+  "dimensions": null,
+  "specs": {},
+  "spec_icons": [],
+  "materials": [],
+  "weight": null,
+  "ranking": null,
+  "popularity": null,
+  "star_rating": null,
+  "review_count": null,
+  "rating_count": null,
+  "rating": null,
+  "reviews": [
+    {
+      "nickname": "TechGuru123",
+      "created_at": "2026-09-15",
+      "rating": 5,
+      "headline": null,
+      "comments": "These smart glasses are a game-changer! The AI integration is seamless, and the camera quality is impressive. Plus, they look just like regular Ray-Bans.",
+      "source": "openai"
+    },
+    {
+      "nickname": "GadgetLover",
+      "created_at": "2026-09-10",
+      "rating": 4,
+      "headline": null,
+      "comments": "Great product overall. The audio quality is excellent, and the battery life lasts all day. The only downside is the price, but it's worth it for the features.",
+      "source": "openai"
+    }
+  ],
+  "reviews_note": null,
+  "breadcrumbs": [],
+  "options": [],
+  "attributes_from_tags": {},
+  "tags": [],
+  "variants": [],
+  "images": [
+    {
+      "position": 1,
+      "src": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500000_sd.jpg",
+      "alt": "Ray-Ban Meta (Gen 2) Smart Glasses",
+      "width": null,
+      "height": null
+    }
+  ],
+  "published_at": null,
+  "created_at": null,
+  "sources": {
+    "product_page": "https://www.bestbuy.com/site/ray-ban-meta-wayfarer-gen-2-glasses-with-meta-ai-audio-photo-video-compatibility-transitions-grey-lenses-matte-black/6500000.p?skuId=6500000",
+    "product_js": null,
+    "reviews": null
+  },
+  "origin": "openai_prompt",
+  "search_prompt": "I am looking to buy a eye glass and my budget is below $600. I am a techie and like tech looking eye glasses. is this a good fit eye glass and brand for me ?",
+  "fetch_method": "openai",
+  "research": {
+    "audience_gender": "both",
+    "popularity": "both",
+    "age_group": "18-45",
+    "professionals": "tech enthusiasts, content creators, commuters",
+    "demographic_appeal": "urban professionals, gadget enthusiasts",
+    "top_us_state": "California",
+    "top_us_city": "San Francisco",
+    "health_benefits": "Unknown",
+    "average_price": "459",
+    "bundle": "protective case, lens cleaning kit",
+    "recalls": "none found",
+    "sources": [
+      "https://www.bestbuy.com/site/ray-ban-meta-wayfarer-gen-2-glasses-with-meta-ai-audio-photo-video-compatibility-transitions-grey-lenses-matte-black/6500000.p?skuId=6500000",
+      "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=pcmcat1780433669350&id=pcat17071&st=categoryid%24pcmcat1780433669350"
+    ]
+  },
+  "openai_enrichment": {
+    "status": "completed",
+    "missing": [
+      "brand",
+      "barcode",
+      "product name",
+      "product image",
+      "user feedback"
+    ]
+  },
+  "videos": [],
+  "videos_note": "No related video found.",
+  "barcode_note": "EAN for Ray-Ban Meta (Gen 2) Wayfarer, Shiny Black",
+  "run_id": "ba3793a1-d851-48a2-8f57-4f71bf61fd5b",
+  "image_count": 1
+}

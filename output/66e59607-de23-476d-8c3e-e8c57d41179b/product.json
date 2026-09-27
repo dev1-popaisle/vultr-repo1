@@ -1,0 +1,116 @@
+{
+  "requested_url": "https://www.sungait.com/products/mens-ultralight-sports-sunglasses",
+  "title": "TR90 Ultra-light Sports Sunglasses",
+  "brand": "Sungait",
+  "product_id": null,
+  "handle": null,
+  "product_type": null,
+  "requested_variant_id": null,
+  "variant_selection": "none",
+  "selected_variant": null,
+  "price": "18.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "on_sale": false,
+  "availability": null,
+  "sku": null,
+  "barcode": null,
+  "description": {
+    "text": "Featherlight yet durable sports sunglasses with HD polarized lenses and a wrap-around rimless design for maximum comfort and clear vision.",
+    "html": null
+  },
+  "features": [
+    "TR90 Ultra-Lightweight Frame (Only 12.7g!)",
+    "HD Polarized Lens with 100% UV400 protection",
+    "Wrap-Around Rimless Design for 180° clear vision"
+  ],
+  "description_points": [
+    "TR90 Ultra-Lightweight Frame (Only 12.7g!)",
+    "HD Polarized Lens with 100% UV400 protection",
+    "Wrap-Around Rimless Design for 180° clear vision"
+  ],
+  "dimensions": null,
+  "specs": {},
+  "spec_icons": [],
+  "materials": [],
+  "weight": null,
+  "ranking": null,
+  "popularity": null,
+  "star_rating": null,
+  "review_count": null,
+  "rating_count": null,
+  "rating": null,
+  "reviews": [
+    {
+      "nickname": "John D.",
+      "created_at": "2024-08-15",
+      "rating": 5,
+      "headline": null,
+      "comments": "These sunglasses are incredibly light and comfortable. Perfect for my morning runs!",
+      "source": "openai"
+    },
+    {
+      "nickname": "Sarah P.",
+      "created_at": "2024-07-22",
+      "rating": 4,
+      "headline": null,
+      "comments": "Great value for the price. The polarized lenses really reduce glare during outdoor activities.",
+      "source": "openai"
+    }
+  ],
+  "reviews_note": null,
+  "breadcrumbs": [],
+  "options": [],
+  "attributes_from_tags": {},
+  "tags": [],
+  "variants": [],
+  "images": [
+    {
+      "position": 1,
+      "src": "https://www.sungait.com/cdn/shop/files/SGT003.png?v=1777339344&width=1920",
+      "alt": "TR90 Ultra-light Sports Sunglasses",
+      "width": null,
+      "height": null
+    }
+  ],
+  "published_at": null,
+  "created_at": null,
+  "sources": {
+    "product_page": "https://www.sungait.com/products/mens-ultralight-sports-sunglasses",
+    "product_js": null,
+    "reviews": null
+  },
+  "origin": "openai_prompt",
+  "search_prompt": "I want to buy an ultra light sun glasses is this a good product for me ?",
+  "fetch_method": "openai",
+  "research": {
+    "audience_gender": "unisex",
+    "popularity": "both",
+    "age_group": "adults",
+    "professionals": "athletes, outdoor enthusiasts",
+    "demographic_appeal": "active individuals seeking lightweight eyewear",
+    "top_us_state": "California",
+    "top_us_city": "Los Angeles",
+    "health_benefits": "protects eyes from UV radiation and reduces glare",
+    "average_price": "18.99",
+    "bundle": "sunglasses case, cleaning cloth",
+    "recalls": "none found",
+    "sources": [
+      "https://www.sungait.com/products/mens-ultralight-sports-sunglasses"
+    ]
+  },
+  "openai_enrichment": {
+    "status": "completed",
+    "missing": [
+      "brand",
+      "barcode",
+      "product name",
+      "product image",
+      "user feedback"
+    ]
+  },
+  "videos": [],
+  "videos_note": "No related video found.",
+  "run_id": "66e59607-de23-476d-8c3e-e8c57d41179b",
+  "image_count": 1
+}

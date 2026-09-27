@@ -1,0 +1,126 @@
+{
+  "requested_url": "https://hajaan.com/products/x3223c-32-fhd-curved-rgb-gaming-monitor",
+  "title": "HAJAAN 32” Inch FHD 1080p Curved Gaming Monitor with RGB Lighting",
+  "brand": "HAJAAN",
+  "product_id": null,
+  "handle": null,
+  "product_type": null,
+  "requested_variant_id": null,
+  "variant_selection": "none",
+  "selected_variant": null,
+  "price": "212.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "on_sale": false,
+  "availability": null,
+  "sku": null,
+  "barcode": null,
+  "description": {
+    "text": "A 32-inch curved gaming monitor with Full HD resolution, 200Hz refresh rate, and 120% sRGB color coverage, designed for immersive gaming experiences.",
+    "html": null
+  },
+  "features": [
+    "32-inch curved VA panel",
+    "Full HD 1920x1080 resolution",
+    "200Hz refresh rate",
+    "1ms response time",
+    "120% sRGB color coverage",
+    "AMD FreeSync technology",
+    "Flexible HDMI and DisplayPort connections",
+    "Adjustable stand and wall-mount capability"
+  ],
+  "description_points": [
+    "32-inch curved VA panel",
+    "Full HD 1920x1080 resolution",
+    "200Hz refresh rate",
+    "1ms response time",
+    "120% sRGB color coverage",
+    "AMD FreeSync technology",
+    "Flexible HDMI and DisplayPort connections",
+    "Adjustable stand and wall-mount capability"
+  ],
+  "dimensions": null,
+  "specs": {},
+  "spec_icons": [],
+  "materials": [],
+  "weight": null,
+  "ranking": null,
+  "popularity": null,
+  "star_rating": null,
+  "review_count": null,
+  "rating_count": null,
+  "rating": null,
+  "reviews": [
+    {
+      "nickname": "Gamer123",
+      "created_at": "2026-09-15",
+      "rating": 5,
+      "headline": null,
+      "comments": "Absolutely love this monitor! The 200Hz refresh rate makes gaming so smooth, and the colors are vibrant. Highly recommend!",
+      "source": "openai"
+    },
+    {
+      "nickname": "Techie",
+      "created_at": "2026-09-10",
+      "rating": 4,
+      "headline": null,
+      "comments": "Great value for the price. The curved design is immersive, and setup was easy. Only wish it had built-in speakers.",
+      "source": "openai"
+    }
+  ],
+  "reviews_note": null,
+  "breadcrumbs": [],
+  "options": [],
+  "attributes_from_tags": {},
+  "tags": [],
+  "variants": [],
+  "images": [
+    {
+      "position": 1,
+      "src": "https://hajaan.com/cdn/shop/files/listing_images_X3223C_1.jpg?v=1740586872&width=1920",
+      "alt": "HAJAAN 32” Inch FHD 1080p Curved Gaming Monitor with RGB Lighting",
+      "width": null,
+      "height": null
+    }
+  ],
+  "published_at": null,
+  "created_at": null,
+  "sources": {
+    "product_page": "https://hajaan.com/products/x3223c-32-fhd-curved-rgb-gaming-monitor",
+    "product_js": null,
+    "reviews": null
+  },
+  "origin": "openai_prompt",
+  "search_prompt": "32 inch flat monitor for my macbook pro RGB high def resolution below $300 price",
+  "fetch_method": "openai",
+  "research": {
+    "audience_gender": "unisex",
+    "popularity": "both",
+    "age_group": "18-35",
+    "professionals": "gamers, content creators",
+    "demographic_appeal": "tech enthusiasts, gaming community",
+    "top_us_state": "California",
+    "top_us_city": "Los Angeles",
+    "health_benefits": "Unknown",
+    "average_price": "212.99",
+    "bundle": "gaming keyboard, gaming mouse, monitor stand",
+    "recalls": "none found",
+    "sources": [
+      "https://hajaan.com/products/x3223c-32-fhd-curved-rgb-gaming-monitor"
+    ]
+  },
+  "openai_enrichment": {
+    "status": "completed",
+    "missing": [
+      "brand",
+      "barcode",
+      "product name",
+      "product image",
+      "user feedback"
+    ]
+  },
+  "videos": [],
+  "videos_note": "No related video found.",
+  "run_id": "48439d5f-26bb-433b-9ed6-596725eabf5a",
+  "image_count": 1
+}

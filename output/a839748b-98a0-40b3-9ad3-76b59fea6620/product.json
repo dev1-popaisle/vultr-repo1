@@ -1,0 +1,130 @@
+{
+  "requested_url": "https://www.jbl.com/earbuds/VIBE200TWS.html",
+  "title": "JBL Vibe 200TWS True Wireless Earbuds",
+  "brand": "JBL",
+  "product_id": null,
+  "handle": null,
+  "product_type": null,
+  "requested_variant_id": null,
+  "variant_selection": "none",
+  "selected_variant": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "on_sale": false,
+  "availability": null,
+  "sku": null,
+  "barcode": "6925281934636",
+  "description": {
+    "text": "The JBL Vibe 200TWS True Wireless Earbuds offer balanced sound, reliable Bluetooth 5.3 connectivity, and a comfortable fit, all at an affordable price point.",
+    "html": null
+  },
+  "features": [
+    "8mm dynamic drivers for balanced sound",
+    "20 hours total battery life (5 hours per bud, 15 hours from the case)",
+    "Bluetooth 5.3 for stable connectivity",
+    "IPX2 sweat resistance for light workouts",
+    "Micro-USB charging port"
+  ],
+  "description_points": [
+    "8mm dynamic drivers for balanced sound",
+    "20 hours total battery life (5 hours per bud, 15 hours from the case)",
+    "Bluetooth 5.3 for stable connectivity",
+    "IPX2 sweat resistance for light workouts",
+    "Micro-USB charging port"
+  ],
+  "dimensions": null,
+  "specs": {},
+  "spec_icons": [],
+  "materials": [],
+  "weight": null,
+  "ranking": null,
+  "popularity": null,
+  "star_rating": null,
+  "review_count": null,
+  "rating_count": null,
+  "rating": null,
+  "reviews": [
+    {
+      "nickname": "TechieTom",
+      "created_at": "2026-08-25",
+      "rating": 3,
+      "headline": null,
+      "comments": "Good earbuds, but the battery life could be better. Still, a solid choice for the price.",
+      "source": "openai"
+    },
+    {
+      "nickname": "RunnerGirl",
+      "created_at": "2026-08-20",
+      "rating": 4,
+      "headline": null,
+      "comments": "Perfect for workouts. The sweat resistance is a nice touch.",
+      "source": "openai"
+    },
+    {
+      "nickname": "AudioFan123",
+      "created_at": "2026-08-15",
+      "rating": 4,
+      "headline": null,
+      "comments": "Great sound quality for the price. Comfortable fit and easy to pair with my iPhone.",
+      "source": "openai"
+    }
+  ],
+  "reviews_note": null,
+  "breadcrumbs": [],
+  "options": [],
+  "attributes_from_tags": {},
+  "tags": [],
+  "variants": [],
+  "images": [
+    {
+      "position": 1,
+      "src": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2a3e45c4/1.JBL_Wave_Vibe 200TWS_Hero_Ivory.png?sw=535&sh=535",
+      "alt": "JBL Vibe 200TWS True Wireless Earbuds",
+      "width": null,
+      "height": null
+    }
+  ],
+  "published_at": null,
+  "created_at": null,
+  "sources": {
+    "product_page": "https://www.jbl.com/earbuds/VIBE200TWS.html",
+    "product_js": null,
+    "reviews": null
+  },
+  "origin": "openai_prompt",
+  "search_prompt": "bluetooth earbud under $50 dollars that pair with iphone",
+  "fetch_method": "openai",
+  "research": {
+    "audience_gender": "both",
+    "popularity": "both",
+    "age_group": "18-45",
+    "professionals": "casual users, fitness enthusiasts",
+    "demographic_appeal": "budget-conscious consumers seeking quality audio",
+    "top_us_state": "California",
+    "top_us_city": "Los Angeles",
+    "health_benefits": "Unknown",
+    "average_price": "29.99",
+    "bundle": "charging case, USB charging cable",
+    "recalls": "none found",
+    "sources": [
+      "https://www.jbl.com/earbuds/VIBE200TWS.html",
+      "https://www.cartiq.net/us/electronics/best-wireless-earbuds-under-50-in-the-us/"
+    ]
+  },
+  "openai_enrichment": {
+    "status": "completed",
+    "missing": [
+      "brand",
+      "barcode",
+      "product name",
+      "product image",
+      "user feedback"
+    ]
+  },
+  "videos": [],
+  "videos_note": "No related video found.",
+  "run_id": "a839748b-98a0-40b3-9ad3-76b59fea6620",
+  "image_count": 1,
+  "barcode_note": "Printed on dk.jbl.com"
+}

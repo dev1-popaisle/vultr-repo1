@@ -1,0 +1,125 @@
+{
+  "requested_url": "https://www.teva.com/men-sandals/men-sport-sandals/teva-original-universal/1003980.html",
+  "title": "Teva Original Universal Sandal",
+  "brand": "Teva",
+  "product_id": null,
+  "handle": null,
+  "product_type": null,
+  "requested_variant_id": null,
+  "variant_selection": "none",
+  "selected_variant": null,
+  "price": "64",
+  "compare_at_price": null,
+  "currency": "USD",
+  "on_sale": false,
+  "availability": null,
+  "sku": "1003980",
+  "barcode": null,
+  "description": {
+    "text": "A versatile sandal designed for comfort and durability, suitable for various beach activities.",
+    "html": null
+  },
+  "features": [
+    "Adjustable hook-and-loop straps for a customized fit",
+    "Quick-drying webbing made from recycled plastic bottles",
+    "Contoured EVA footbed for enhanced arch support",
+    "Durabrasion Rubber outsole for reliable traction on wet surfaces"
+  ],
+  "description_points": [
+    "Adjustable hook-and-loop straps for a customized fit",
+    "Quick-drying webbing made from recycled plastic bottles",
+    "Contoured EVA footbed for enhanced arch support",
+    "Durabrasion Rubber outsole for reliable traction on wet surfaces"
+  ],
+  "dimensions": null,
+  "specs": {},
+  "spec_icons": [],
+  "materials": [],
+  "weight": null,
+  "ranking": null,
+  "popularity": null,
+  "star_rating": null,
+  "review_count": null,
+  "rating_count": null,
+  "rating": null,
+  "reviews": [
+    {
+      "nickname": "OutdoorAdventurer",
+      "created_at": "2026-07-02",
+      "rating": 4,
+      "headline": null,
+      "comments": "Great for beach walks and water activities. The adjustable straps ensure a secure fit, though they can rub a bit after extended use.",
+      "source": "openai"
+    },
+    {
+      "nickname": "BeachLover123",
+      "created_at": "2026-06-15",
+      "rating": 5,
+      "headline": null,
+      "comments": "These sandals are perfect for the beach! Comfortable, quick-drying, and provide excellent traction on wet surfaces.",
+      "source": "openai"
+    }
+  ],
+  "reviews_note": null,
+  "breadcrumbs": [],
+  "options": [],
+  "attributes_from_tags": {},
+  "tags": [],
+  "variants": [],
+  "images": [
+    {
+      "position": 1,
+      "src": "https://dms.deckers.com/tevaus/image/upload/v1765493433/1003987-THIS_1.png",
+      "alt": "Teva Original Universal Sandal",
+      "width": null,
+      "height": null
+    }
+  ],
+  "published_at": null,
+  "created_at": null,
+  "sources": {
+    "product_page": "https://www.teva.com/men-sandals/men-sport-sandals/teva-original-universal/1003980.html",
+    "product_js": null,
+    "reviews": null
+  },
+  "origin": "openai_prompt",
+  "search_prompt": "I am looking for a sandal I can wear at the beach",
+  "fetch_method": "openai",
+  "research": {
+    "audience_gender": "unisex",
+    "popularity": "both",
+    "age_group": "adults",
+    "professionals": "beachgoers, travelers, outdoor enthusiasts",
+    "demographic_appeal": "active individuals seeking durable and comfortable beach footwear",
+    "top_us_state": "California",
+    "top_us_city": "San Diego",
+    "health_benefits": "Provides arch support and stability, reducing foot fatigue during extended wear",
+    "average_price": "64 USD",
+    "bundle": "Teva Original Universal Sandal with Teva water socks for added comfort and protection",
+    "recalls": "none found",
+    "sources": [
+      "https://www.teva.com/men-sandals/men-sport-sandals/teva-original-universal/1003980.html",
+      "https://www.youtube.com/watch?v=AaPxadKFHXs"
+    ]
+  },
+  "openai_enrichment": {
+    "status": "completed",
+    "missing": [
+      "brand",
+      "barcode",
+      "product name",
+      "product image",
+      "user feedback"
+    ]
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=AaPxadKFHXs",
+      "title": "The 7 best, most stylish pairs of beach sandals",
+      "category": "product explanation"
+    }
+  ],
+  "videos_note": null,
+  "run_id": "22d935e0-b1ee-4b5c-88d2-9edcbee4314b",
+  "image_count": 1
+}

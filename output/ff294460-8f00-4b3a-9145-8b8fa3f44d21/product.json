@@ -1,0 +1,49 @@
+{
+  "origin": "openai_prompt",
+  "search_prompt": "winter jacket leather large size, black color under $200",
+  "requested_url": "https://alexgear.com/products/diamond-quilted-black-leather-jacket-men",
+  "title": "Diamond Quilted Winter Biker Jacket",
+  "brand": "AlexGear",
+  "barcode": null,
+  "reviews": [],
+  "images": [
+    {
+      "position": 1,
+      "src": "https://alexgear.com/cdn/shop/files/Men-Quilted-Black-Leather-Biker-Jacket.jpg?v=1720773215&width=1920",
+      "alt": "Diamond Quilted Winter Biker Jacket",
+      "width": null,
+      "height": null
+    }
+  ],
+  "research": {
+    "audience_gender": "men",
+    "popularity": "neither",
+    "age_group": "adults",
+    "professionals": "Unknown",
+    "demographic_appeal": "Unknown",
+    "top_us_state": "California",
+    "top_us_city": "Los Angeles",
+    "health_benefits": "Unknown",
+    "average_price": "$179.00 USD",
+    "bundle": "Unknown",
+    "recalls": "none found",
+    "sources": [
+      "https://alexgear.com/products/diamond-quilted-black-leather-jacket?variant=39439223488597"
+    ]
+  },
+  "openai_enrichment": {
+    "status": "completed",
+    "missing": [
+      "brand",
+      "barcode",
+      "product name",
+      "product image",
+      "user feedback"
+    ]
+  },
+  "videos": [],
+  "videos_note": "No related video found.",
+  "run_id": "ff294460-8f00-4b3a-9145-8b8fa3f44d21",
+  "image_count": 1,
+  "fetch_method": "openai"
+}

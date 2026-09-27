@@ -1,0 +1,3624 @@
+{
+  "requested_url": "https://www.sportsbasement.com/products/clifton-16?variant=41172026130504",
+  "title": "Men's Clifton 11",
+  "brand": "Hoka",
+  "product_id": 7014038175816,
+  "handle": "clifton-16",
+  "product_type": "LDAD01",
+  "requested_variant_id": "41172026130504",
+  "variant_selection": "query_param",
+  "selected_variant": {
+    "id": 41172026130504,
+    "title": "BWHT-Black/White / 7",
+    "name": "Men's Clifton 11 - BWHT-Black/White / 7",
+    "sku": "2050014189039",
+    "barcode": "100301256016",
+    "price": "155.00",
+    "compare_at_price": "155.00",
+    "currency": "USD",
+    "available": true,
+    "availability": "in_stock",
+    "inventory_quantity": 13,
+    "options": {
+      "Color": "BWHT-Black/White",
+      "Size": "7"
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+  },
+  "price": "155.00",
+  "compare_at_price": "155.00",
+  "currency": "USD",
+  "on_sale": false,
+  "availability": "in_stock",
+  "sku": "2050014189039",
+  "barcode": "100301256016",
+  "description": {
+    "text": "A trusted trainer for daily maintenance miles, the Clifton has been the keystone of Hoka's cushioned styles for 11 seasons and counting. Delivering the same effortless ride that made the original a fan favorite, this latest iteration pairs a cushy, compression molded foam with an elevated mesh upper. Refreshed with reflective details and tactile silicone touchpoints, Hoka employed a double-lace lock to help mitigate tongue migration when chasing those daily miles.\nSmooth MetaRocker™\nEngineered mesh upper\nInherently durable abrasion rubber outsole\nRearfoot-focused Active Foot Frame™\nOpen cell sockliner\n3D silicone print\nReflective details\nDouble-lace lock\nCompression molded EVA foam midsole\nWeight 9.97 oz\nHeel-To-Toe Drop: 8.00 mm\nStability: Neutral\nCushion: Balanced",
+    "html": "<p>A trusted trainer for daily maintenance miles, the Clifton has been the keystone of Hoka's cushioned styles for 11 seasons and counting. Delivering the same effortless ride that made the original a fan favorite, this latest iteration pairs a cushy, compression molded foam with an elevated mesh upper. Refreshed with reflective details and tactile silicone touchpoints, Hoka employed a double-lace lock to help mitigate tongue migration when chasing those daily miles.</p>\n<ul>\n<li>Smooth MetaRocker™<br>\n</li>\n<li>Engineered mesh upper<br>\n</li>\n<li>Inherently durable abrasion rubber outsole<br>\n</li>\n<li>Rearfoot-focused Active Foot Frame™<br>\n</li>\n<li>Open cell sockliner<br>\n</li>\n<li>3D silicone print<br>\n</li>\n<li>Reflective details<br>\n</li>\n<li>Double-lace lock<br>\n</li>\n<li>Compression molded EVA foam midsole<br>\n</li>\n<li>Weight 9.97 oz<br>\n</li>\n<li>Heel-To-Toe Drop: 8.00 mm<br>\n</li>\n<li>Stability: Neutral<br>\n</li>\n<li>Cushion: Balanced</li>\n</ul>"
+  },
+  "features": [
+    "Smooth MetaRocker™",
+    "Engineered mesh upper",
+    "Inherently durable abrasion rubber outsole",
+    "Rearfoot-focused Active Foot Frame™",
+    "Open cell sockliner",
+    "3D silicone print",
+    "Reflective details",
+    "Double-lace lock",
+    "Compression molded EVA foam midsole"
+  ],
+  "description_points": [
+    "Smooth MetaRocker™",
+    "Engineered mesh upper",
+    "Inherently durable abrasion rubber outsole",
+    "Rearfoot-focused Active Foot Frame™",
+    "Open cell sockliner",
+    "3D silicone print",
+    "Reflective details",
+    "Double-lace lock",
+    "Compression molded EVA foam midsole",
+    "Weight 9.97 oz",
+    "Heel-To-Toe Drop: 8.00 mm",
+    "Stability: Neutral",
+    "Cushion: Balanced"
+  ],
+  "dimensions": {
+    "heel_to_toe_drop": "8.00 mm",
+    "length": null,
+    "width": null,
+    "height": null,
+    "widths_available": "Regular, Wide & Extra Wide",
+    "shoe_width": "D (Men's Medium)"
+  },
+  "specs": {
+    "activity": "Running",
+    "best_use": "Road",
+    "category": "Neutral",
+    "correction": "Neutral",
+    "cushioning": "High",
+    "drop": "8 mm",
+    "gender_age": "Men's",
+    "shoe_width": "D (Men's Medium)",
+    "waterproof": "No",
+    "weight_per_shoe": "9-9.9 oz",
+    "weight": "9.97 oz (Per Shoe)",
+    "heel_to_toe_drop": "8.00 mm",
+    "stability": "Neutral",
+    "cushion": "Balanced",
+    "best_for": "Road",
+    "drop_range": "5-10 mm",
+    "support_type": "Neutral",
+    "widths": "Regular, Wide & Extra Wide"
+  },
+  "spec_icons": [
+    {
+      "label": "BEST FOR",
+      "value": "Road"
+    },
+    {
+      "label": "DROP",
+      "value": "8 mm"
+    },
+    {
+      "label": "SUPPORT TYPE",
+      "value": "Neutral"
+    },
+    {
+      "label": "WEIGHT",
+      "value": "9.97 oz (Per Shoe)"
+    },
+    {
+      "label": "WIDTHS",
+      "value": "Regular, Wide & Extra Wide"
+    }
+  ],
+  "materials": [
+    "Engineered mesh upper",
+    "Inherently durable abrasion rubber outsole",
+    "Open cell sockliner",
+    "3D silicone print",
+    "Compression molded EVA foam midsole"
+  ],
+  "weight": {
+    "display": "9.97 oz (Per Shoe)",
+    "value": 9.97,
+    "unit": "oz",
+    "scope": "per shoe"
+  },
+  "ranking": {
+    "designation": "Basement10",
+    "badge_text": null,
+    "numeric_rank": null,
+    "source": "product tag"
+  },
+  "popularity": null,
+  "star_rating": 2.84,
+  "review_count": 62,
+  "rating_count": 67,
+  "rating": {
+    "stars": 2.84,
+    "rating_count": 67,
+    "review_count": 62,
+    "recommended_ratio": 0.4,
+    "rating_histogram": {
+      "1": 22,
+      "2": 13,
+      "3": 5,
+      "4": 8,
+      "5": 19
+    },
+    "native_review_count": 1,
+    "syndicated_review_count": 66,
+    "highlighted_positive": {
+      "id": 572588440,
+      "rating": 5,
+      "headline": "Excellent shoe",
+      "comments": "Got these and wore them on a ski trip to Austria and perfect for on the trail walks in snow, day trip to Munich, the airport, walking in town…just everything. I wear these on wet days when I am active outside and when I know I want to be in shoes that grip. I am blown away at the fact the ratings on this shoe are how they are on the website. These are stellar and don't know why they aren't more highly rated. If you wear low socks I would recommend until you wear them in to opt for a sock that does come above the back of the shoe. I did not have any blisters but the sensation bugged me until I wore them a couple of times and tried again with my low feetures socks and it was fine. I want to get these in another color and that's how I landed here to write this…and they are holding up well after 10 months."
+    },
+    "highlighted_negative": {
+      "id": 571770080,
+      "rating": 1,
+      "headline": "Pretty but small toe box",
+      "comments": "While KAHA3 are beautiful shoes, they hurt my feet right away and continue to. I tried to break them in by wearing them around the house but they would not soften. Obviously, I am hesitant to wear these very expensive shoes now. They don't have a large enough toe box so my toes are cramped. They were not carried in wide so I even sized up my purchase by a half size. Regardless, the front width is absolutely too narrow and I believe this is a design flaw. I tried to exchange them a few days after the deadline as I had been on a long trip and medical issues to contend with. Customer service was not helpful and held firm on their no returns after 60 days even though I told them of my situation. I am a HOKA junky in that I buy lots of them. I wish they would do right by me. Sadly, the KAHA 3 are a real disappointment and I am concerned about buying another pair. I wish they would reverse their decision."
+    }
+  },
+  "reviews": [
+    {
+      "id": 587046896,
+      "rating": 5,
+      "headline": "I bought a 2nd pair in a different color",
+      "comments": "I walk between 15k to 30k steps a day. I have pain in my right foot due to a previous injury. All I can say, this shoe had made it more comfortable for me to move around. So comfy. Highly recommend!",
+      "nickname": "Mariah C.",
+      "location": "Chicago, Illinois",
+      "created_at": "2026-09-10T02:04:27.725000+00:00",
+      "bottom_line": "Yes",
+      "source": "syndicated",
+      "brand_name": "Journeys US",
+      "product_page_id": "7014038175816",
+      "properties": [],
+      "verified_buyer": false,
+      "verified_reviewer": false,
+      "helpful_votes": 0,
+      "not_helpful_votes": 0,
+      "media": [
+        "https://res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/eernxsb5qeajkhlme4i1.jpg"
+      ]
+    },
+    {
+      "id": 586919603,
+      "rating": 4,
+      "headline": "I would buy this product again",
+      "comments": "These are very comfy.  I do think I will have a bit of a learning curve bc of the thick sole and rocker-like design, but I'm looking forward to getting used to that and wearing them outside",
+      "nickname": "Pamela",
+      "location": "Undisclosed",
+      "created_at": "2026-09-08T21:21:20.108000+00:00",
+      "bottom_line": null,
+      "source": "syndicated",
+      "brand_name": "Von Maur",
+      "product_page_id": "7014038175816",
+      "properties": [],
+      "verified_buyer": true,
+      "verified_reviewer": true,
+      "helpful_votes": 0,
+      "not_helpful_votes": 0,
+      "media": []
+    },
+    {
+      "id": 586386821,
+      "rating": 1,
+      "headline": "The worst sneakers ever.",
+      "comments": "To start with, the sizing runs very small; I bought my usual size (size 6), but the sneakers were so tight that they caused several sores on my feet the very first time I wore them. They offer absolutely no support—I had leg pain for 24 hours after wearing them. They aren't worth a penny of what I paid. I am disappointed. I don't have any back or leg health issues, so I can only imagine the pain someone with such problems might experience. Therefore, I wouldn't recommend them to anyone, and I feel like I wasted my money, as",
+      "nickname": "Karla",
+      "location": "Florida",
+      "created_at": "2026-09-03T08:18:10.543000+00:00",
+      "bottom_line": "No",
+      "source": "syndicated",
+      "brand_name": "JD Sports Fashion US",
+      "product_page_id": "7014038175816",
+      "properties": [],
+      "verified_buyer": false,
+      "verified_reviewer": false,
+      "helpful_votes": 1,
+      "not_helpful_votes": 3,
+      "media": []
+    },
+    {
+      "id": 586379475,
+      "rating": 5,
+      "headline": "Would buy again - way better than the Clifton 10s",
+      "comments": "2 weeks in, these are way better than the Clifton 10s.  Very comfortable feel, ran distances of 5k up to 1/2 Marathon.  responsive enough to pick up the speed if you're feeling good that day.",
+      "nickname": "GamerBoy",
+      "location": "San Jose",
+      "created_at": "2026-09-02T22:16:56.050000+00:00",
+      "bottom_line": "Yes",
+      "source": null,
+      "brand_name": null,
+      "product_page_id": "7014038175816",
+      "properties": [
+        {
+          "key": "wasthisagift",
+          "label": "Was this a gift?",
+          "type": "tag",
+          "value": [
+            "No"
+          ]
+        }
+      ],
+      "verified_buyer": true,
+      "verified_reviewer": true,
+      "helpful_votes": 0,
+      "not_helpful_votes": 0,
+      "media": []
+    },
+    {
+      "id": 582487797,
+      "rating": 5,
+      "headline": "Nice shoes",
+      "comments": "I ordered these to do some really low-key hiking on my family vacation. I ordered up a half a size, as was recommended, and they fit well for me. I tend to have trouble with shoes being too narrow in the toes, so I was a bit hesitant after reading some of the other reviews, but have had no problem. I have also worn them at my work, which has cement flooring, so the extra cushioning is really helpful for my knees.",
+      "nickname": "Tiffany",
+      "location": "Iowa",
+      "created_at": "2026-06-17T19:33:48.865000+00:00",
+      "bottom_line": "Yes",
+      "source": "syndicated",
+      "brand_name": "HOKA ONE ONE",
+      "product_page_id": "7014038175816",
+      "properties": [],
+      "verified_buyer": true,
+      "verified_reviewer": true,
+      "helpful_votes": 0,
+      "not_helpful_votes": 0,
+      "media": []
+    },
+    {
+      "id": 582454421,
+      "rating": 2,
+      "headline": "I really wanted to like these",
+      "comments": "These seemed perfect for hiking with the thicker sole, and I liked the color combo that I got, but the upper part was too rigid and gave me a blister on the top of my foot, so I had to return them. Even despite purchasing a half size up than my usual Hoka size, they just didn't work for me.",
+      "nickname": "LexsMom",
+      "location": "CA",
+      "created_at": "2026-06-17T03:02:25.359000+00:00",
+      "bottom_line": "No",
+      "source": "syndicated",
+      "brand_name": "HOKA ONE ONE",
+      "product_page_id": "7014038175816",
+      "properties": [],
+      "verified_buyer": true,
+      "verified_reviewer": true,
+      "helpful_votes": 0,
+      "not_helpful_votes": 0,
+      "media": []
+    },
+    {
+      "id": 582256400,
+      "rating": 5,
+      "headline": "Great shoe!",
+      "comments": "I was hesitant to order the Kaha 3 given some of the low ratings, but it was on sale so I decided to give them a try anyway. I'm really glad I did! They are both a bit cushy and stable at the same time, which should be good for daily walks and the easy to moderate hikes I do. The higher collar on the back took a minute, ok, several wears, to get used to, but I'm fine with it. I normally wear a women's 8 or 8.5 W in Hokas, so I was concerned that the shoes would",
+      "nickname": "VSM",
+      "location": "Beaufort, SC",
+      "created_at": "2026-06-13T18:06:42.877000+00:00",
+      "bottom_line": "Yes",
+      "source": "syndicated",
+      "brand_name": "HOKA ONE ONE",
+      "product_page_id": "7014038175816",
+      "properties": [],
+      "verified_buyer": true,
+      "verified_reviewer": true,
+      "helpful_votes": 1,
+      "not_helpful_votes": 0,
+      "media": []
+    },
+    {
+      "id": 581263967,
+      "rating": 1,
+      "headline": "Terrible redesign",
+      "comments": "I loved my Kaha 2s. The Kaha 3 is not even close to being the same shoe. The toe box has been squared off and my usual size is somehow too small and too big at the same time.",
+      "nickname": "Paula",
+      "location": "Seattle, WA",
+      "created_at": "2026-05-31T17:37:37.358000+00:00",
+      "bottom_line": "No",
+      "source": "syndicated",
+      "brand_name": "HOKA ONE ONE",
+      "product_page_id": "7014038175816",
+      "properties": [],
+      "verified_buyer": true,
+      "verified_reviewer": true,
+      "helpful_votes": 0,
+      "not_helpful_votes": 0,
+      "media": []
+    },
+    {
+      "id": 580903695,
+      "rating": 5,
+      "headline": "I love these Hokas",
+      "comments": "Wear these everyday. The fit is grest",
+      "nickname": "Rox",
+      "location": "Honesdale, Pa",
+      "created_at": "2026-05-25T20:36:39.288000+00:00",
+      "bottom_line": "Yes",
+      "source": "syndicated",
+      "brand_name": "HOKA ONE ONE",
+      "product_page_id": "7014038175816",
+      "properties": [],
+      "verified_buyer": true,
+      "verified_reviewer": true,
+      "helpful_votes": 0,
+      "not_helpful_votes": 0,
+      "media": []
+    },
+    {
+      "id": 580815509,
+      "rating": 5,
+      "headline": "Best tactical shoe",
+      "comments": "I live in the desert and was scared these would make my feet too hot but they don't at all. I love these shoes! Best tactical shoes ever!!!!! Very plush and comfy walking on dirt.. I listened to other reviews and went 1 size bigger. I could have prob maybe done half size but after swollen feet 1 size up feels better. 8 wide in bondi and Clifton and purchased a 9 in these",
+      "nickname": "Shay",
+      "location": "Imperial Valley",
+      "created_at": "2026-05-23T05:49:26.369000+00:00",
+      "bottom_line": "Yes",
+      "source": "syndicated",
+      "brand_name": "HOKA ONE ONE",
+      "product_page_id": "7014038175816",
+      "properties": [],
+      "verified_buyer": true,
+      "verified_reviewer": true,
+      "helpful_votes": 4,
+      "not_helpful_votes": 0,
+      "media": []
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "name": "Running",
+      "url": "https://www.sportsbasement.com/search?q=Running"
+    },
+    {
+      "name": "Footwear",
+      "url": "https://www.sportsbasement.com/search?q=Running%20Footwear"
+    },
+    {
+      "name": "Men's Neutral",
+      "url": "https://www.sportsbasement.com/search?q=Running%20Footwear%20Men's Neutral"
+    },
+    {
+      "name": "Medium",
+      "url": "https://www.sportsbasement.com/search?q=Running%20Footwear%20Men's Neutral%20Medium"
+    }
+  ],
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "BWHT-Black/White",
+        "WWH-White/White",
+        "GCTC-Galactic Grey/Stellar Grey",
+        "FLCK-Frost/Black",
+        "VSF-Virtual Blue/Soft Cobalt",
+        "SCCG-Stucco/Grout",
+        "VFD-Varsity Navy/Faded Navy",
+        "NNTN-Neon Tangerine/Frost",
+        "BNNY-Black/Neon Yuzu",
+        "GLCT-Galactic Grey/Stardust",
+        "BBLC-Black/Black"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "12.5",
+        "13",
+        "14",
+        "15"
+      ]
+    }
+  ],
+  "attributes_from_tags": {
+    "activity": "Running",
+    "best_use": "Road",
+    "category": "Neutral",
+    "correction": "Neutral",
+    "cushioning": "High",
+    "drop": "5-10 mm",
+    "gender_age": "Men's",
+    "shoe_width": "D (Men's Medium)",
+    "waterproof": "No",
+    "weight_per_shoe": "9-9.9 oz"
+  },
+  "tags": [
+    "00Neutral-Shoes00",
+    "Activity:Running",
+    "Basement10",
+    "Best Use:Road",
+    "BreadcrumbActivity:Running",
+    "BreadcrumbClass:Men's Neutral",
+    "BreadcrumbSubBMC:Medium",
+    "BreadcrumbType:Footwear",
+    "Category:Neutral",
+    "Correction:Neutral",
+    "Cushioning:High",
+    "D (Men's Medium)",
+    "DOORDASH",
+    "Drop:5-10 mm",
+    "Footwear",
+    "Gender/Age:Men's",
+    "Medium",
+    "Men",
+    "Men's",
+    "NATB",
+    "Neutral",
+    "NEW PRODUCT",
+    "Running",
+    "Shoe Width:D (Men's Medium)",
+    "Shoes",
+    "Waterproof?:No",
+    "Weight (Per Shoe):9-9.9 oz"
+  ],
+  "variants": [
+    {
+      "id": 41172026130504,
+      "title": "BWHT-Black/White / 7",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 7",
+      "sku": "2050014189039",
+      "barcode": "100301256016",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "7"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 41172026163272,
+      "title": "BWHT-Black/White / 7.5",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 7.5",
+      "sku": "2050014189046",
+      "barcode": "100301256017",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "7.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810247946312,
+      "title": "BWHT-Black/White / 8",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 8",
+      "sku": "2050014189053",
+      "barcode": "100301256018",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "8"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810247979080,
+      "title": "BWHT-Black/White / 8.5",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 8.5",
+      "sku": "2050014189060",
+      "barcode": "100301256019",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "8.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248011848,
+      "title": "BWHT-Black/White / 9",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 9",
+      "sku": "2050014189077",
+      "barcode": "100301256020",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "9"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248044616,
+      "title": "BWHT-Black/White / 9.5",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 9.5",
+      "sku": "2050014189084",
+      "barcode": "100301256021",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 18,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "9.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248077384,
+      "title": "BWHT-Black/White / 10",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 10",
+      "sku": "2050014189091",
+      "barcode": "100301256022",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 15,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "10"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248110152,
+      "title": "BWHT-Black/White / 10.5",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 10.5",
+      "sku": "2050014189107",
+      "barcode": "100301256023",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 15,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "10.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248142920,
+      "title": "BWHT-Black/White / 11",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 11",
+      "sku": "2050014189114",
+      "barcode": "100301256024",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 20,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "11"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248175688,
+      "title": "BWHT-Black/White / 11.5",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 11.5",
+      "sku": "2050014189121",
+      "barcode": "100301256025",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "11.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248208456,
+      "title": "BWHT-Black/White / 12",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 12",
+      "sku": "2050014189138",
+      "barcode": "100301256026",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 17,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "12"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248241224,
+      "title": "BWHT-Black/White / 12.5",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 12.5",
+      "sku": "2050014189145",
+      "barcode": "100301256027",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "12.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248273992,
+      "title": "BWHT-Black/White / 13",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 13",
+      "sku": "2050014189152",
+      "barcode": "100301256028",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 15,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "13"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248306760,
+      "title": "BWHT-Black/White / 14",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 14",
+      "sku": "2050014189169",
+      "barcode": "100301256029",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "14"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248339528,
+      "title": "BWHT-Black/White / 15",
+      "name": "Men's Clifton 11 - BWHT-Black/White / 15",
+      "sku": "2050014189176",
+      "barcode": "100301256030",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "BWHT-Black/White",
+        "Size": "15"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248372296,
+      "title": "WWH-White/White / 7",
+      "name": "Men's Clifton 11 - WWH-White/White / 7",
+      "sku": "2050014189183",
+      "barcode": "100301256031",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "7"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248405064,
+      "title": "WWH-White/White / 7.5",
+      "name": "Men's Clifton 11 - WWH-White/White / 7.5",
+      "sku": "2050014189190",
+      "barcode": "100301256032",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "7.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248437832,
+      "title": "WWH-White/White / 8",
+      "name": "Men's Clifton 11 - WWH-White/White / 8",
+      "sku": "2050014189206",
+      "barcode": "100301256033",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "8"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248470600,
+      "title": "WWH-White/White / 8.5",
+      "name": "Men's Clifton 11 - WWH-White/White / 8.5",
+      "sku": "2050014189213",
+      "barcode": "100301256034",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 4,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "8.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248503368,
+      "title": "WWH-White/White / 9",
+      "name": "Men's Clifton 11 - WWH-White/White / 9",
+      "sku": "2050014189220",
+      "barcode": "100301256035",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 6,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "9"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248536136,
+      "title": "WWH-White/White / 9.5",
+      "name": "Men's Clifton 11 - WWH-White/White / 9.5",
+      "sku": "2050014189237",
+      "barcode": "100301256036",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 5,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "9.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248568904,
+      "title": "WWH-White/White / 10",
+      "name": "Men's Clifton 11 - WWH-White/White / 10",
+      "sku": "2050014189244",
+      "barcode": "100301256037",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 3,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "10"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248601672,
+      "title": "WWH-White/White / 10.5",
+      "name": "Men's Clifton 11 - WWH-White/White / 10.5",
+      "sku": "2050014189251",
+      "barcode": "100301256038",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 5,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "10.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248634440,
+      "title": "WWH-White/White / 11",
+      "name": "Men's Clifton 11 - WWH-White/White / 11",
+      "sku": "2050014189268",
+      "barcode": "100301256039",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 2,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "11"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248667208,
+      "title": "WWH-White/White / 11.5",
+      "name": "Men's Clifton 11 - WWH-White/White / 11.5",
+      "sku": "2050014189275",
+      "barcode": "100301256040",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 7,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "11.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248699976,
+      "title": "WWH-White/White / 12",
+      "name": "Men's Clifton 11 - WWH-White/White / 12",
+      "sku": "2050014189282",
+      "barcode": "100301256041",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 7,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "12"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248732744,
+      "title": "WWH-White/White / 12.5",
+      "name": "Men's Clifton 11 - WWH-White/White / 12.5",
+      "sku": "2050014189299",
+      "barcode": "100301256042",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "12.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248765512,
+      "title": "WWH-White/White / 13",
+      "name": "Men's Clifton 11 - WWH-White/White / 13",
+      "sku": "2050014189305",
+      "barcode": "100301256043",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "13"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248798280,
+      "title": "WWH-White/White / 14",
+      "name": "Men's Clifton 11 - WWH-White/White / 14",
+      "sku": "2050014189312",
+      "barcode": "100301256044",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "14"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248831048,
+      "title": "WWH-White/White / 15",
+      "name": "Men's Clifton 11 - WWH-White/White / 15",
+      "sku": "2050014189329",
+      "barcode": "100301256045",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "WWH-White/White",
+        "Size": "15"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809"
+    },
+    {
+      "id": 40810248863816,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 7",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 7",
+      "sku": "2050014189336",
+      "barcode": "100301256046",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "7"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248896584,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 7.5",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 7.5",
+      "sku": "2050014189343",
+      "barcode": "100301256047",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "7.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248929352,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 8",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 8",
+      "sku": "2050014189350",
+      "barcode": "100301256048",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 11,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "8"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248962120,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 8.5",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 8.5",
+      "sku": "2050014189367",
+      "barcode": "100301256049",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "8.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810248994888,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 9",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 9",
+      "sku": "2050014189374",
+      "barcode": "100301256050",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "9"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249027656,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 9.5",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 9.5",
+      "sku": "2050014189381",
+      "barcode": "100301256051",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 17,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "9.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249060424,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 10",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 10",
+      "sku": "2050014189398",
+      "barcode": "100301256052",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "10"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249093192,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 10.5",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 10.5",
+      "sku": "2050014189404",
+      "barcode": "100301256053",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 16,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "10.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249125960,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 11",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 11",
+      "sku": "2050014189411",
+      "barcode": "100301256054",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 17,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "11"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249158728,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 11.5",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 11.5",
+      "sku": "2050014189428",
+      "barcode": "100301256055",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "11.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249191496,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 12",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 12",
+      "sku": "2050014189435",
+      "barcode": "100301256056",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "12"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249224264,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 12.5",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 12.5",
+      "sku": "2050014189442",
+      "barcode": "100301256057",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "12.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249257032,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 13",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 13",
+      "sku": "2050014189459",
+      "barcode": "100301256058",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 15,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "13"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249289800,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 14",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 14",
+      "sku": "2050014189466",
+      "barcode": "100301256059",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 11,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "14"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249322568,
+      "title": "GCTC-Galactic Grey/Stellar Grey / 15",
+      "name": "Men's Clifton 11 - GCTC-Galactic Grey/Stellar Grey / 15",
+      "sku": "2050014189473",
+      "barcode": "100301256060",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "GCTC-Galactic Grey/Stellar Grey",
+        "Size": "15"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249355336,
+      "title": "FLCK-Frost/Black / 7",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 7",
+      "sku": "2050014189480",
+      "barcode": "100301256061",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "7"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249388104,
+      "title": "FLCK-Frost/Black / 7.5",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 7.5",
+      "sku": "2050014189497",
+      "barcode": "100301256062",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "7.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249420872,
+      "title": "FLCK-Frost/Black / 8",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 8",
+      "sku": "2050014189503",
+      "barcode": "100301256063",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 15,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "8"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249453640,
+      "title": "FLCK-Frost/Black / 8.5",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 8.5",
+      "sku": "2050014189510",
+      "barcode": "100301256064",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "8.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249486408,
+      "title": "FLCK-Frost/Black / 9",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 9",
+      "sku": "2050014189527",
+      "barcode": "100301256065",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 15,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "9"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249519176,
+      "title": "FLCK-Frost/Black / 9.5",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 9.5",
+      "sku": "2050014189534",
+      "barcode": "100301256066",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 16,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "9.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249551944,
+      "title": "FLCK-Frost/Black / 10",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 10",
+      "sku": "2050014189541",
+      "barcode": "100301256067",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 16,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "10"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249584712,
+      "title": "FLCK-Frost/Black / 10.5",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 10.5",
+      "sku": "2050014189558",
+      "barcode": "100301256068",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 16,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "10.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249617480,
+      "title": "FLCK-Frost/Black / 11",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 11",
+      "sku": "2050014189565",
+      "barcode": "100301256069",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 15,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "11"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249650248,
+      "title": "FLCK-Frost/Black / 11.5",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 11.5",
+      "sku": "2050014189572",
+      "barcode": "100301256070",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "11.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249683016,
+      "title": "FLCK-Frost/Black / 12",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 12",
+      "sku": "2050014189589",
+      "barcode": "100301256071",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "12"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249715784,
+      "title": "FLCK-Frost/Black / 12.5",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 12.5",
+      "sku": "2050014189596",
+      "barcode": "100301256072",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "12.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249748552,
+      "title": "FLCK-Frost/Black / 13",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 13",
+      "sku": "2050014189602",
+      "barcode": "100301256073",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "13"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249781320,
+      "title": "FLCK-Frost/Black / 14",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 14",
+      "sku": "2050014189619",
+      "barcode": "100301256074",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "14"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249814088,
+      "title": "FLCK-Frost/Black / 15",
+      "name": "Men's Clifton 11 - FLCK-Frost/Black / 15",
+      "sku": "2050014189626",
+      "barcode": "100301256075",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "FLCK-Frost/Black",
+        "Size": "15"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809"
+    },
+    {
+      "id": 40810249846856,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 7",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 7",
+      "sku": "2050014189633",
+      "barcode": "100301256076",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "7"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249879624,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 7.5",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 7.5",
+      "sku": "2050014189640",
+      "barcode": "100301256077",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "7.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249912392,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 8",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 8",
+      "sku": "2050014189657",
+      "barcode": "100301256078",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "8"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249945160,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 8.5",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 8.5",
+      "sku": "2050014189664",
+      "barcode": "100301256079",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 5,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "8.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810249977928,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 9",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 9",
+      "sku": "2050014189671",
+      "barcode": "100301256080",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "9"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250010696,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 9.5",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 9.5",
+      "sku": "2050014189688",
+      "barcode": "100301256081",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 16,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "9.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250043464,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 10",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 10",
+      "sku": "2050014189695",
+      "barcode": "100301256082",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 17,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "10"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250076232,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 10.5",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 10.5",
+      "sku": "2050014189701",
+      "barcode": "100301256083",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 16,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "10.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250109000,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 11",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 11",
+      "sku": "2050014189718",
+      "barcode": "100301256084",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 15,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "11"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250141768,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 11.5",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 11.5",
+      "sku": "2050014189725",
+      "barcode": "100301256085",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 16,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "11.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250174536,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 12",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 12",
+      "sku": "2050014189732",
+      "barcode": "100301256086",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "12"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250207304,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 12.5",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 12.5",
+      "sku": "2050014189749",
+      "barcode": "100301256087",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "12.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250240072,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 13",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 13",
+      "sku": "2050014189756",
+      "barcode": "100301256088",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "13"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250272840,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 14",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 14",
+      "sku": "2050014189763",
+      "barcode": "100301256089",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "14"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250305608,
+      "title": "VSF-Virtual Blue/Soft Cobalt / 15",
+      "name": "Men's Clifton 11 - VSF-Virtual Blue/Soft Cobalt / 15",
+      "sku": "2050014189770",
+      "barcode": "100301256090",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "VSF-Virtual Blue/Soft Cobalt",
+        "Size": "15"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250338376,
+      "title": "SCCG-Stucco/Grout / 7",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 7",
+      "sku": "2050014189787",
+      "barcode": "100301256091",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "7"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250371144,
+      "title": "SCCG-Stucco/Grout / 7.5",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 7.5",
+      "sku": "2050014189794",
+      "barcode": "100301256092",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "7.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250403912,
+      "title": "SCCG-Stucco/Grout / 8",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 8",
+      "sku": "2050014189800",
+      "barcode": "100301256093",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "8"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250436680,
+      "title": "SCCG-Stucco/Grout / 8.5",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 8.5",
+      "sku": "2050014189817",
+      "barcode": "100301256094",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "8.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250469448,
+      "title": "SCCG-Stucco/Grout / 9",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 9",
+      "sku": "2050014189824",
+      "barcode": "100301256095",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "9"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250502216,
+      "title": "SCCG-Stucco/Grout / 9.5",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 9.5",
+      "sku": "2050014189831",
+      "barcode": "100301256096",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "9.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250534984,
+      "title": "SCCG-Stucco/Grout / 10",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 10",
+      "sku": "2050014189848",
+      "barcode": "100301256097",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "10"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250567752,
+      "title": "SCCG-Stucco/Grout / 10.5",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 10.5",
+      "sku": "2050014189855",
+      "barcode": "100301256098",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "10.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250600520,
+      "title": "SCCG-Stucco/Grout / 11",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 11",
+      "sku": "2050014189862",
+      "barcode": "100301256099",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "11"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250633288,
+      "title": "SCCG-Stucco/Grout / 11.5",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 11.5",
+      "sku": "2050014189879",
+      "barcode": "100301256100",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "11.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250666056,
+      "title": "SCCG-Stucco/Grout / 12",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 12",
+      "sku": "2050014189886",
+      "barcode": "100301256101",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "12"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250698824,
+      "title": "SCCG-Stucco/Grout / 12.5",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 12.5",
+      "sku": "2050014189893",
+      "barcode": "100301256102",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "12.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250731592,
+      "title": "SCCG-Stucco/Grout / 13",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 13",
+      "sku": "2050014189909",
+      "barcode": "100301256103",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "13"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250764360,
+      "title": "SCCG-Stucco/Grout / 14",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 14",
+      "sku": "2050014189916",
+      "barcode": "100301256104",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "14"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250797128,
+      "title": "SCCG-Stucco/Grout / 15",
+      "name": "Men's Clifton 11 - SCCG-Stucco/Grout / 15",
+      "sku": "2050014189923",
+      "barcode": "100301256105",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "SCCG-Stucco/Grout",
+        "Size": "15"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250829896,
+      "title": "VFD-Varsity Navy/Faded Navy / 7",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 7",
+      "sku": "2050014189930",
+      "barcode": "100301256106",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "7"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250862664,
+      "title": "VFD-Varsity Navy/Faded Navy / 7.5",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 7.5",
+      "sku": "2050014189947",
+      "barcode": "100301256107",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "7.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250895432,
+      "title": "VFD-Varsity Navy/Faded Navy / 8",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 8",
+      "sku": "2050014189954",
+      "barcode": "100301256108",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 9,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "8"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250928200,
+      "title": "VFD-Varsity Navy/Faded Navy / 8.5",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 8.5",
+      "sku": "2050014189961",
+      "barcode": "100301256109",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 16,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "8.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250960968,
+      "title": "VFD-Varsity Navy/Faded Navy / 9",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 9",
+      "sku": "2050014189978",
+      "barcode": "100301256110",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "9"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810250993736,
+      "title": "VFD-Varsity Navy/Faded Navy / 9.5",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 9.5",
+      "sku": "2050014189985",
+      "barcode": "100301256111",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "9.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251026504,
+      "title": "VFD-Varsity Navy/Faded Navy / 10",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 10",
+      "sku": "2050014189992",
+      "barcode": "100301256112",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "10"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251059272,
+      "title": "VFD-Varsity Navy/Faded Navy / 10.5",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 10.5",
+      "sku": "2050014190004",
+      "barcode": "100301256113",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "10.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251092040,
+      "title": "VFD-Varsity Navy/Faded Navy / 11",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 11",
+      "sku": "2050014190011",
+      "barcode": "100301256114",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "11"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251124808,
+      "title": "VFD-Varsity Navy/Faded Navy / 11.5",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 11.5",
+      "sku": "2050014190028",
+      "barcode": "100301256115",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "11.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251157576,
+      "title": "VFD-Varsity Navy/Faded Navy / 12",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 12",
+      "sku": "2050014190035",
+      "barcode": "100301256116",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 11,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "12"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251190344,
+      "title": "VFD-Varsity Navy/Faded Navy / 12.5",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 12.5",
+      "sku": "2050014190042",
+      "barcode": "100301256117",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "12.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251223112,
+      "title": "VFD-Varsity Navy/Faded Navy / 13",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 13",
+      "sku": "2050014190059",
+      "barcode": "100301256118",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "13"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251255880,
+      "title": "VFD-Varsity Navy/Faded Navy / 14",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 14",
+      "sku": "2050014190066",
+      "barcode": "100301256119",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "14"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251288648,
+      "title": "VFD-Varsity Navy/Faded Navy / 15",
+      "name": "Men's Clifton 11 - VFD-Varsity Navy/Faded Navy / 15",
+      "sku": "2050014190073",
+      "barcode": "100301256120",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "VFD-Varsity Navy/Faded Navy",
+        "Size": "15"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251321416,
+      "title": "NNTN-Neon Tangerine/Frost / 7",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 7",
+      "sku": "2050014190080",
+      "barcode": "100301256121",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "7"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251354184,
+      "title": "NNTN-Neon Tangerine/Frost / 7.5",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 7.5",
+      "sku": "2050014190097",
+      "barcode": "100301256122",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "7.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251386952,
+      "title": "NNTN-Neon Tangerine/Frost / 8",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 8",
+      "sku": "2050014190103",
+      "barcode": "100301256123",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "8"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251419720,
+      "title": "NNTN-Neon Tangerine/Frost / 8.5",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 8.5",
+      "sku": "2050014190110",
+      "barcode": "100301256124",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 5,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "8.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251452488,
+      "title": "NNTN-Neon Tangerine/Frost / 9",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 9",
+      "sku": "2050014190127",
+      "barcode": "100301256125",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 2,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "9"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251485256,
+      "title": "NNTN-Neon Tangerine/Frost / 9.5",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 9.5",
+      "sku": "2050014190134",
+      "barcode": "100301256126",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 6,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "9.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251518024,
+      "title": "NNTN-Neon Tangerine/Frost / 10",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 10",
+      "sku": "2050014190141",
+      "barcode": "100301256127",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 4,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "10"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251550792,
+      "title": "NNTN-Neon Tangerine/Frost / 10.5",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 10.5",
+      "sku": "2050014190158",
+      "barcode": "100301256128",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 5,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "10.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251583560,
+      "title": "NNTN-Neon Tangerine/Frost / 11",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 11",
+      "sku": "2050014190165",
+      "barcode": "100301256129",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 8,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "11"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251616328,
+      "title": "NNTN-Neon Tangerine/Frost / 11.5",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 11.5",
+      "sku": "2050014190172",
+      "barcode": "100301256130",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 7,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "11.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251649096,
+      "title": "NNTN-Neon Tangerine/Frost / 12",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 12",
+      "sku": "2050014190189",
+      "barcode": "100301256131",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 7,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "12"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251681864,
+      "title": "NNTN-Neon Tangerine/Frost / 12.5",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 12.5",
+      "sku": "2050014190196",
+      "barcode": "100301256132",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "12.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251714632,
+      "title": "NNTN-Neon Tangerine/Frost / 13",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 13",
+      "sku": "2050014190202",
+      "barcode": "100301256133",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "13"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251747400,
+      "title": "NNTN-Neon Tangerine/Frost / 14",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 14",
+      "sku": "2050014190219",
+      "barcode": "100301256134",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "14"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251780168,
+      "title": "NNTN-Neon Tangerine/Frost / 15",
+      "name": "Men's Clifton 11 - NNTN-Neon Tangerine/Frost / 15",
+      "sku": "2050014190226",
+      "barcode": "100301256135",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "NNTN-Neon Tangerine/Frost",
+        "Size": "15"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251812936,
+      "title": "BNNY-Black/Neon Yuzu / 7",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 7",
+      "sku": "2050014190233",
+      "barcode": "100301256136",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "7"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251845704,
+      "title": "BNNY-Black/Neon Yuzu / 7.5",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 7.5",
+      "sku": "2050014190240",
+      "barcode": "100301256137",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "7.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251878472,
+      "title": "BNNY-Black/Neon Yuzu / 8",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 8",
+      "sku": "2050014190257",
+      "barcode": "100301256138",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "8"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251911240,
+      "title": "BNNY-Black/Neon Yuzu / 8.5",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 8.5",
+      "sku": "2050014190264",
+      "barcode": "100301256139",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 9,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "8.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251944008,
+      "title": "BNNY-Black/Neon Yuzu / 9",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 9",
+      "sku": "2050014190271",
+      "barcode": "100301256140",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "9"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810251976776,
+      "title": "BNNY-Black/Neon Yuzu / 9.5",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 9.5",
+      "sku": "2050014190288",
+      "barcode": "100301256141",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 9,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "9.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810252009544,
+      "title": "BNNY-Black/Neon Yuzu / 10",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 10",
+      "sku": "2050014190295",
+      "barcode": "100301256142",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 7,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "10"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810252042312,
+      "title": "BNNY-Black/Neon Yuzu / 10.5",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 10.5",
+      "sku": "2050014190301",
+      "barcode": "100301256143",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "10.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810252075080,
+      "title": "BNNY-Black/Neon Yuzu / 11",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 11",
+      "sku": "2050014190318",
+      "barcode": "100301256144",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "11"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810252107848,
+      "title": "BNNY-Black/Neon Yuzu / 11.5",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 11.5",
+      "sku": "2050014190325",
+      "barcode": "100301256145",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 9,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "11.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810252140616,
+      "title": "BNNY-Black/Neon Yuzu / 12",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 12",
+      "sku": "2050014190332",
+      "barcode": "100301256146",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "12"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810252173384,
+      "title": "BNNY-Black/Neon Yuzu / 12.5",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 12.5",
+      "sku": "2050014190349",
+      "barcode": "100301256147",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "12.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810252206152,
+      "title": "BNNY-Black/Neon Yuzu / 13",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 13",
+      "sku": "2050014190356",
+      "barcode": "100301256148",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "13"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810252238920,
+      "title": "BNNY-Black/Neon Yuzu / 14",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 14",
+      "sku": "2050014190363",
+      "barcode": "100301256149",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "14"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810252271688,
+      "title": "BNNY-Black/Neon Yuzu / 15",
+      "name": "Men's Clifton 11 - BNNY-Black/Neon Yuzu / 15",
+      "sku": "2050014190370",
+      "barcode": "100301256150",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "BNNY-Black/Neon Yuzu",
+        "Size": "15"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810"
+    },
+    {
+      "id": 40810252304456,
+      "title": "GLCT-Galactic Grey/Stardust / 7",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 7",
+      "sku": "2050014190387",
+      "barcode": "100301256151",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "7"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252337224,
+      "title": "GLCT-Galactic Grey/Stardust / 7.5",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 7.5",
+      "sku": "2050014190394",
+      "barcode": "100301256152",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "7.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252369992,
+      "title": "GLCT-Galactic Grey/Stardust / 8",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 8",
+      "sku": "2050014190400",
+      "barcode": "100301256153",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "8"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252402760,
+      "title": "GLCT-Galactic Grey/Stardust / 8.5",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 8.5",
+      "sku": "2050014190417",
+      "barcode": "100301256154",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "8.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252435528,
+      "title": "GLCT-Galactic Grey/Stardust / 9",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 9",
+      "sku": "2050014190424",
+      "barcode": "100301256155",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "9"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252468296,
+      "title": "GLCT-Galactic Grey/Stardust / 9.5",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 9.5",
+      "sku": "2050014190431",
+      "barcode": "100301256156",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 9,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "9.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252501064,
+      "title": "GLCT-Galactic Grey/Stardust / 10",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 10",
+      "sku": "2050014190448",
+      "barcode": "100301256157",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 9,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "10"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252533832,
+      "title": "GLCT-Galactic Grey/Stardust / 10.5",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 10.5",
+      "sku": "2050014190455",
+      "barcode": "100301256158",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 11,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "10.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252566600,
+      "title": "GLCT-Galactic Grey/Stardust / 11",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 11",
+      "sku": "2050014190462",
+      "barcode": "100301256159",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 11,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "11"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252599368,
+      "title": "GLCT-Galactic Grey/Stardust / 11.5",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 11.5",
+      "sku": "2050014190479",
+      "barcode": "100301256160",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "11.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252632136,
+      "title": "GLCT-Galactic Grey/Stardust / 12",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 12",
+      "sku": "2050014190486",
+      "barcode": "100301256161",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "12"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252664904,
+      "title": "GLCT-Galactic Grey/Stardust / 12.5",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 12.5",
+      "sku": "2050014190493",
+      "barcode": "100301256162",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "12.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252697672,
+      "title": "GLCT-Galactic Grey/Stardust / 13",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 13",
+      "sku": "2050014190509",
+      "barcode": "100301256163",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 11,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "13"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252730440,
+      "title": "GLCT-Galactic Grey/Stardust / 14",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 14",
+      "sku": "2050014190516",
+      "barcode": "100301256164",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "14"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 40810252763208,
+      "title": "GLCT-Galactic Grey/Stardust / 15",
+      "name": "Men's Clifton 11 - GLCT-Galactic Grey/Stardust / 15",
+      "sku": "2050014190523",
+      "barcode": "100301256165",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": false,
+      "availability": "out_of_stock",
+      "inventory_quantity": 0,
+      "options": {
+        "Color": "GLCT-Galactic Grey/Stardust",
+        "Size": "15"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235"
+    },
+    {
+      "id": 41172025638984,
+      "title": "BBLC-Black/Black / 7",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 7",
+      "sku": "2050014188889",
+      "barcode": "100301256001",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "7"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172025671752,
+      "title": "BBLC-Black/Black / 7.5",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 7.5",
+      "sku": "2050014188896",
+      "barcode": "100301256002",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "7.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172025704520,
+      "title": "BBLC-Black/Black / 8",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 8",
+      "sku": "2050014188902",
+      "barcode": "100301256003",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "8"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172025737288,
+      "title": "BBLC-Black/Black / 8.5",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 8.5",
+      "sku": "2050014188919",
+      "barcode": "100301256004",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "8.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172025770056,
+      "title": "BBLC-Black/Black / 9",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 9",
+      "sku": "2050014188926",
+      "barcode": "100301256005",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 14,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "9"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172025802824,
+      "title": "BBLC-Black/Black / 9.5",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 9.5",
+      "sku": "2050014188933",
+      "barcode": "100301256006",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 11,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "9.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172025835592,
+      "title": "BBLC-Black/Black / 10",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 10",
+      "sku": "2050014188940",
+      "barcode": "100301256007",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 7,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "10"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172025868360,
+      "title": "BBLC-Black/Black / 10.5",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 10.5",
+      "sku": "2050014188957",
+      "barcode": "100301256008",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "10.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172025901128,
+      "title": "BBLC-Black/Black / 11",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 11",
+      "sku": "2050014188964",
+      "barcode": "100301256009",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 9,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "11"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172025933896,
+      "title": "BBLC-Black/Black / 11.5",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 11.5",
+      "sku": "2050014188971",
+      "barcode": "100301256010",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 10,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "11.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172025966664,
+      "title": "BBLC-Black/Black / 12",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 12",
+      "sku": "2050014188988",
+      "barcode": "100301256011",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "12"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172025999432,
+      "title": "BBLC-Black/Black / 12.5",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 12.5",
+      "sku": "2050014188995",
+      "barcode": "100301256012",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "12.5"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172026032200,
+      "title": "BBLC-Black/Black / 13",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 13",
+      "sku": "2050014189008",
+      "barcode": "100301256013",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 15,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "13"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172026064968,
+      "title": "BBLC-Black/Black / 14",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 14",
+      "sku": "2050014189015",
+      "barcode": "100301256014",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 13,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "14"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    },
+    {
+      "id": 41172026097736,
+      "title": "BBLC-Black/Black / 15",
+      "name": "Men's Clifton 11 - BBLC-Black/Black / 15",
+      "sku": "2050014189022",
+      "barcode": "100301256015",
+      "price": "155.00",
+      "compare_at_price": "155.00",
+      "currency": "USD",
+      "available": true,
+      "availability": "in_stock",
+      "inventory_quantity": 12,
+      "options": {
+        "Color": "BBLC-Black/Black",
+        "Size": "15"
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810"
+    }
+  ],
+  "images": [
+    {
+      "position": 1,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-1.png?v=1782496810",
+      "alt": "Hoka Men's Clifton 11 in Black/White",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 2,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-WHTWHT-1.png?v=1782496809",
+      "alt": "Hoka Men's Clifton 11 in White/White",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 3,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALAGRSTELGRY-1.png?v=1782496810",
+      "alt": "Hoka Men's Clifton 11 in Glactic Grey/Stellar Grey",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 4,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-1.png?v=1782496809",
+      "alt": "Hoka Men's Clifton 11 in Frost/Black",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 5,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VIRBLUCOB-1.png?v=1782496810",
+      "alt": "Hoka Men's Clifton 11 in Virtual Blue/Soft cobalt",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 6,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-STUCCGRT-1.png?v=1782496810",
+      "alt": "Hoka Men's Clifton 11 in Stucco/Grey",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 7,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-VARNVY-1.png?v=1782496810",
+      "alt": "Hoka Men's Clifton 11 in Varsity Navy/Faded Navy",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 8,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-NEONTANG-1.png?v=1782496810",
+      "alt": "Hoka Men's Clifton 11 in Neon Tangerine/Frost",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 9,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKNEONYU-1.png?v=1782496810",
+      "alt": "Hoka Men's Clifton 11 in Black/Neon Yuzu",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 10,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-GALASTELL-1.png?v=1782497235",
+      "alt": "Hoka Men's Clifton 11 in Galactic Grey/Stellar Grey",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 11,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKBLK-1.png?v=1782496810",
+      "alt": "Hoka Men's Clifton 11 in Black/Black",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 12,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-8.png?v=1782496809",
+      "alt": "Hoka Men's Clifton 11 side",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 13,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-6.png?v=1782496810",
+      "alt": "Hoka Men's Clifton 11 3/4 right facing",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 14,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-3.png?v=1782496811",
+      "alt": "Hoka Men's Clifton 11 3/4 left facing",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 15,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-4.png?v=1782496811",
+      "alt": "Hoka Men's Clifton 11 heel raised",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 16,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-5.png?v=1782496810",
+      "alt": "Hoka Men's Clifton 11 heels",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 17,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-2.png?v=1782496811",
+      "alt": "Hoka Men's Clifton 11 top",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 18,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-BLKWHT-7.png?v=1782496811",
+      "alt": "Hoka Men's Clifton 11 bottom",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "position": 19,
+      "src": "https://cdn.shopify.com/s/files/1/0751/7203/files/100301256-FRSTBLK-2.png?v=1782497740",
+      "alt": "Hoka Men's Clifton 11 lifestyle shot",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "published_at": "2026-06-30T10:10:20-07:00",
+  "created_at": "2025-12-16T01:04:00-08:00",
+  "sources": {
+    "product_page": "https://www.sportsbasement.com/products/clifton-16?variant=41172026130504",
+    "product_js": "https://www.sportsbasement.com/products/clifton-16.js",
+    "reviews": "https://display.powerreviews.com/m/965487/l/en_US/product/7014038175816/reviews"
+  },
+  "run_id": "23d0c747-1512-4212-9bf3-b61636fc83e7",
+  "image_count": 19,
+  "research": {
+    "audience_gender": "men",
+    "popularity": "both",
+    "age_group": "adults",
+    "professionals": "runners",
+    "demographic_appeal": "athletes",
+    "top_us_state": "California",
+    "top_us_city": "San Francisco",
+    "health_benefits": "Unknown",
+    "average_price": "155.00 USD",
+    "bundle": "running socks, moisture-wicking apparel, hydration packs",
+    "recalls": "none found",
+    "sources": [
+      "https://www.sportsbasement.com/products/clifton-16?variant=41172026130504",
+      "https://runrepeat.com/hoka-clifton-11",
+      "https://www.doctorsofrunning.com/hoka-clifton-11-review/",
+      "https://www.mensjournal.com/fitness/hoka-clifton-11-review",
+      "https://www.tomsguide.com/wellness/running/hoka-clifton-11-review",
+      "https://www.tomsguide.com/wellness/running/hoka-clifton-pro-review",
+      "https://www.t3.com/active/running/hoka-clifton-11-launch-0726",
+      "https://www.youtube.com/watch?v=iO_24d2Khe0",
+      "https://www.youtube.com/watch?v=Sv_F9Vr9tj0"
+    ]
+  },
+  "openai_enrichment": {
+    "status": "completed",
+    "missing": []
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=fjLVG5nJu-M",
+      "title": "Hoka Clifton 11",
+      "category": "product explanation"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=H8eaM_rygFE",
+      "title": "HOKA Clifton 11: The Iconic Daily Trainer Brings More Comfort and Bounce Than Ever",
+      "category": "product explanation"
+    }
+  ],
+  "videos_note": null
+}

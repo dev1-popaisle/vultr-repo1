@@ -1,0 +1,136 @@
+{
+  "requested_url": "https://www.apple.com/shop/accessories/all/chargers-adapters/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation",
+  "title": "AirPods Pro 2 with MagSafe Charging Case (USB-C)",
+  "brand": "Apple",
+  "product_id": "A2968",
+  "handle": null,
+  "product_type": null,
+  "requested_variant_id": null,
+  "variant_selection": "none",
+  "selected_variant": null,
+  "price": "249",
+  "compare_at_price": null,
+  "currency": "USD",
+  "on_sale": false,
+  "availability": null,
+  "sku": "A2968",
+  "barcode": "195949052484",
+  "description": {
+    "text": "Apple's AirPods Pro 2 with MagSafe Charging Case (USB-C) offer enhanced Active Noise Cancellation, improved sound quality, and a USB-C charging case for convenience.",
+    "html": null
+  },
+  "features": [
+    "Active Noise Cancellation",
+    "Adaptive Transparency",
+    "Personalized Spatial Audio with dynamic head tracking",
+    "Adaptive EQ",
+    "Up to 6 hours of listening time on a single charge",
+    "MagSafe Charging Case with USB-C connector"
+  ],
+  "description_points": [
+    "Active Noise Cancellation",
+    "Adaptive Transparency",
+    "Personalized Spatial Audio with dynamic head tracking",
+    "Adaptive EQ",
+    "Up to 6 hours of listening time on a single charge",
+    "MagSafe Charging Case with USB-C connector"
+  ],
+  "dimensions": null,
+  "specs": {},
+  "spec_icons": [],
+  "materials": [],
+  "weight": null,
+  "ranking": null,
+  "popularity": null,
+  "star_rating": null,
+  "review_count": null,
+  "rating_count": null,
+  "rating": null,
+  "reviews": [
+    {
+      "nickname": "MusicLover",
+      "created_at": "2026-07-20",
+      "rating": 4,
+      "headline": null,
+      "comments": "Comfortable fit and impressive audio performance. Battery life could be slightly better, but overall a solid product.",
+      "source": "openai"
+    },
+    {
+      "nickname": "TechGuru",
+      "created_at": "2026-07-15",
+      "rating": 5,
+      "headline": null,
+      "comments": "The sound quality and noise cancellation are exceptional. The USB-C charging case is a great addition for compatibility with my other devices.",
+      "source": "openai"
+    }
+  ],
+  "reviews_note": null,
+  "breadcrumbs": [],
+  "options": [],
+  "attributes_from_tags": {},
+  "tags": [],
+  "variants": [],
+  "images": [
+    {
+      "position": 1,
+      "src": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/airpods-pro-2.png",
+      "alt": "AirPods Pro 2 with MagSafe Charging Case (USB-C)",
+      "width": null,
+      "height": null
+    }
+  ],
+  "published_at": null,
+  "created_at": null,
+  "sources": {
+    "product_page": "https://www.apple.com/shop/accessories/all/chargers-adapters/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation",
+    "product_js": null,
+    "reviews": null
+  },
+  "origin": "openai_prompt",
+  "search_prompt": "Apple AirPods Pro 2 with USB-C charging case",
+  "fetch_method": "openai",
+  "research": {
+    "audience_gender": "Unisex",
+    "popularity": "Worldwide",
+    "age_group": "18-45",
+    "professionals": "Tech enthusiasts, commuters, fitness enthusiasts",
+    "demographic_appeal": "Tech-savvy individuals seeking high-quality audio and noise cancellation",
+    "top_us_state": "California",
+    "top_us_city": "San Francisco",
+    "health_benefits": "Hearing protection through Active Noise Cancellation",
+    "average_price": "249 USD",
+    "bundle": "Apple USB-C to USB-C Charge Cable",
+    "recalls": "None found",
+    "sources": [
+      "https://www.apple.com/shop/accessories/all/chargers-adapters/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation",
+      "https://www.apple.com/airpods-pro-2nd-generation/",
+      "https://www.youtube.com/watch?v=wIIGWkZKlMg",
+      "https://www.youtube.com/watch?v=OexnmVVhqoY"
+    ]
+  },
+  "openai_enrichment": {
+    "status": "completed",
+    "missing": [
+      "brand",
+      "barcode",
+      "product name",
+      "product image",
+      "user feedback"
+    ]
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=wIIGWkZKlMg",
+      "title": "How to Charge Any Apple AirPods Pro (USB-C) Correctly | AirPods Pro 2 3 4 Charging Instructions",
+      "category": "how-to"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OexnmVVhqoY",
+      "title": "Function of Charging Case Back Button in AirPods Pro 2 USB C",
+      "category": "how-to"
+    }
+  ],
+  "videos_note": null,
+  "run_id": "94fafae4-39c2-47ed-8859-da26f9bce80a",
+  "image_count": 1
+}

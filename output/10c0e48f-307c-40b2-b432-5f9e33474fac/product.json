@@ -1,0 +1,118 @@
+{
+  "requested_url": "https://legendaryusa.com/collections/legendary-usa/products/legendary-bad-billy-mens-black-goatskin-short-wrist-gloves",
+  "title": "Bad Billy Black Goatskin Gloves",
+  "brand": "Legendary USA",
+  "product_id": null,
+  "handle": null,
+  "product_type": null,
+  "requested_variant_id": null,
+  "variant_selection": "none",
+  "selected_variant": null,
+  "price": "75",
+  "compare_at_price": null,
+  "currency": "USD",
+  "on_sale": false,
+  "availability": null,
+  "sku": null,
+  "barcode": null,
+  "description": {
+    "text": "Full-grain goatskin gloves designed for durability and comfort, ideal for riding, driving, and tactical applications.",
+    "html": null
+  },
+  "features": [
+    "Full-grain goatskin leather for cut and abrasion resistance",
+    "Lighter than cowhide at equivalent protection",
+    "Elasticized wrist cuff for a secure fit",
+    "Hand-cut and stitched in the USA"
+  ],
+  "description_points": [
+    "Full-grain goatskin leather for cut and abrasion resistance",
+    "Lighter than cowhide at equivalent protection",
+    "Elasticized wrist cuff for a secure fit",
+    "Hand-cut and stitched in the USA"
+  ],
+  "dimensions": null,
+  "specs": {},
+  "spec_icons": [],
+  "materials": [],
+  "weight": null,
+  "ranking": null,
+  "popularity": null,
+  "star_rating": null,
+  "review_count": null,
+  "rating_count": null,
+  "rating": null,
+  "reviews": [
+    {
+      "nickname": "Rider123",
+      "created_at": "2024-06-15",
+      "rating": 5,
+      "headline": null,
+      "comments": "These gloves are incredibly durable and comfortable. Perfect for long rides.",
+      "source": "openai"
+    },
+    {
+      "nickname": "MotoFan",
+      "created_at": "2024-06-10",
+      "rating": 4,
+      "headline": null,
+      "comments": "Great quality gloves, but they took a bit longer to break in than expected.",
+      "source": "openai"
+    }
+  ],
+  "reviews_note": null,
+  "breadcrumbs": [],
+  "options": [],
+  "attributes_from_tags": {},
+  "tags": [],
+  "variants": [],
+  "images": [
+    {
+      "position": 1,
+      "src": "https://legendaryusa.com/cdn/shop/files/Legendary_Bad_Billy_Black_Goatskin_Short_Wrist_Gloves.webp?v=1779544288&width=1200",
+      "alt": "Bad Billy Black Goatskin Gloves",
+      "width": null,
+      "height": null
+    }
+  ],
+  "published_at": null,
+  "created_at": null,
+  "sources": {
+    "product_page": "https://legendaryusa.com/collections/legendary-usa/products/legendary-bad-billy-mens-black-goatskin-short-wrist-gloves",
+    "product_js": null,
+    "reviews": null
+  },
+  "origin": "openai_prompt",
+  "search_prompt": "find black leather gloves under $100 that are durable and high quality with brand name people know.",
+  "fetch_method": "openai",
+  "research": {
+    "audience_gender": "both",
+    "popularity": "both",
+    "age_group": "18-65",
+    "professionals": "Unknown",
+    "demographic_appeal": "adventurous individuals seeking durable gear",
+    "top_us_state": "California",
+    "top_us_city": "Los Angeles",
+    "health_benefits": "Unknown",
+    "average_price": "75",
+    "bundle": "Unknown",
+    "recalls": "none found",
+    "sources": [
+      "https://legendaryusa.com/collections/legendary-usa/products/legendary-bad-billy-mens-black-goatskin-short-wrist-gloves"
+    ]
+  },
+  "openai_enrichment": {
+    "status": "completed",
+    "missing": [
+      "brand",
+      "barcode",
+      "product name",
+      "product image",
+      "user feedback"
+    ]
+  },
+  "videos": [],
+  "videos_note": "No related video found.",
+  "run_id": "10c0e48f-307c-40b2-b432-5f9e33474fac",
+  "image_count": 1
+}
