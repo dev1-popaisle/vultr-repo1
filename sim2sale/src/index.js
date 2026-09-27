@@ -21,10 +21,11 @@ function keyOf(req, body, env) {
 }
 
 function salvage(t) {
-  try { return JSON.parse(t); }
+  let s = (t || "").trim().replace(/^```(?:json)?\s*/, "").replace(/\s*```$/, "");
+  try { return JSON.parse(s); }
   catch {
-    const a = t.indexOf("{"), b = t.lastIndexOf("}");
-    if (a >= 0 && b > a) return JSON.parse(t.slice(a, b + 1));
+    const a = s.indexOf("{"), b = s.lastIndexOf("}");
+    if (a >= 0 && b > a) return JSON.parse(s.slice(a, b + 1));
     throw new Error("non-JSON model output");
   }
 }
@@ -366,16 +367,21 @@ export default {
         const p = body.product || {};
         const tasks = [];
         for (const v of variations) for (const pe of personas) for (let k = 0; k < runs; k++) tasks.push([v, pe]);
-        const trials = await mapConc(tasks, CONC, async ([v, pe]) => {
+        const trials = await mapConc(tasks, CONC, async ([v, pe], idx) => {
+          await new Promise((r) => setTimeout(r, (idx % CONC) * 120));
           const sys = `Roleplay a realistic consumer for a buying-intent study.\nName: ${pe.name}\nIncome: ${pe.income_level || "?"}\nValues: ${(pe.values || []).join(", ")}\nPains: ${(pe.pain_points || []).join(", ")}\nStyle: ${pe.buying_style || "?"}\nBio: ${pe.bio || ""}\n${AGENT_RULES}`;
           const usr = `Product: ${p.name} — ${p.description}\nCandidate: ${v.name} — ${v.description} @ ${v.price || "?"} (${(v.features || []).join(", ")})\nHow likely to buy now (1-10)?\nJSON: {"intent_score": 1-10, "decision": "buy|maybe|no", "value_score": 1-10, "price_fairness": 1-5, "willingness_to_pay": "", "liked_feature": "", "objection": "", "suggested_tweak": "", "reasoning": ""}`;
           try {
-            const d = await chat(apiKey, model, sys, usr, 0.7, 600);
+            let d = null, lastErr = null;
+            for (let a = 0; a < 2 && !d; a++) {
+              try { d = await chat(apiKey, model, sys, usr, 0.7, 1000); } catch (e) { lastErr = e; }
+            }
+            if (!d) throw lastErr;
             const score = Math.max(1, Math.min(10, parseInt(d.intent_score) || 5));
             let dec = d.decision;
             if (!["buy", "maybe", "no"].includes(dec)) dec = score >= 8 ? "buy" : score <= 3 ? "no" : "maybe";
             return { persona_id: pe.id, variation_id: v.id, intent_score: score, decision: dec, value_score: d.value_score ?? null, price_fairness: d.price_fairness ?? null, willingness_to_pay: d.willingness_to_pay || null, liked_feature: d.liked_feature || null, objection: d.objection || null, suggested_tweak: d.suggested_tweak || null, reasoning: d.reasoning || null };
-          } catch { return { persona_id: pe.id, variation_id: v.id, intent_score: 5, decision: "maybe", reasoning: "[fallback]" }; }
+          } catch (e) { return { persona_id: pe.id, variation_id: v.id, intent_score: 5, decision: "maybe", reasoning: "[fallback: " + ((e && e.message) || e) + "]" }; }
         });
         const { summaries, by_persona, ranking } = aggregate(trials, variations);
         return json({ model, use_case: "variation-test", total_trials: trials.length, ranking, summaries, by_persona, trials, variations_used: variations, personas_used: personas });
