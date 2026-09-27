@@ -1,0 +1,7 @@
+name = "sim2sale"
+main = "src/index.js"
+compatibility_date = "2026-09-15"
+
+# Optional: bake the Vultr key in via secret instead of typing it in the UI.
+#   wrangler secret put VULTR_INFERENCE_API_KEY
+# UI can also send it per-request as x-vultr-key header (used for testing).
